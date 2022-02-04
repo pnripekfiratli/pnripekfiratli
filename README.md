@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👀 I’m interested in Data science
+👀 I’m interested in Data science, Python, C#
 
-🌱 I’m currently learning Data science and analytics, Python
+🌱 I’m currently learning Data science and analytics and also C#
 
 📫 How to reach me: pinaripek88@gmail.com
 
