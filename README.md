@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-👀 I’m interested in Data science, Python, C#
+👀 I’m interested in Data science, Python, C#, React
 
-🌱 I’m currently learning Data science and analytics and also C#
+🌱 I’m currently learning C# and React
+
+⚡I'm working as Fullstack Developer
 
 📫 How to reach me: pinaripek88@gmail.com
 
